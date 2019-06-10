@@ -8,6 +8,9 @@ yarn-error.log*
 # Webstorm
 .idea/
 
+# Package
+package-lock.json
+
 # Runtime data
 pids
 *.pid
